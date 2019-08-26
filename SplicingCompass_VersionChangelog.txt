@@ -1,0 +1,3 @@
+SplicingCompass_1.0.1
+- compiled with R 3.0.0
+- improved processing and checking of different input file formats
