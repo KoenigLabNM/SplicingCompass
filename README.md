@@ -1,6 +1,6 @@
 # SplicingCompass
 
-SplicingCompass: differential splicing detection using RNA-Seq data.
+### SplicingCompass: differential splicing detection using RNA-Seq data.
 
 Moritz Aschoff(1,2), Agnes Hotz-Wagenblatt(1), Karl-Heinz Glatting(1), Matthias Fischer(4), Roland Eils(2,3) and Rainer König(2,3,5,6)
 
