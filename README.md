@@ -29,3 +29,6 @@ SplicingCompass is licensed under the GNU General Public License and available a
     GNU R package SplicingCompass Version 2.0.1: SplicingCompass2.1_1.0.tar.gz (licensed under GNU GENERAL PUBLIC LICENSE Version 3) (VersionChangelog)
     GTF annotation of union transcripts based on the UCSC CCDS annotation (please download and see tutorial)
     CountTable object file comparing brain vs liver samples on chromosome 8 (saved R object for demonstration purposes, please download and see tutorial)
+    
+Please cite: M. Aschoff, A. Hotz-Wagenblatt, K. H. Glatting, M. Fischer, R. Eils, R. Konig, SplicingCompass: differential splicing detection using RNA-seq data. Bioinformatics 29, 1141-1148 (2013); published online EpubMay 1 (10.1093/bioinformatics/btt101)
+
